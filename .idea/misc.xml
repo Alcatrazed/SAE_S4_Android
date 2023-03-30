@@ -5,6 +5,13 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/carousel.xml" value="0.33605072463768115" />
+        <entry key="app/src/main/res/layout/carte.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/layout/fragment_acceuil.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_carte.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_liste_manege.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_liste_presta.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/liste_manege.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/layout/liste_presta.xml" value="0.19739583333333333" />
       </map>
     </option>
   </component>
